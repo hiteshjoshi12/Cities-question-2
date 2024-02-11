@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+ 
+}
+
+.item {
+  border-radius: 10px;
+  color: white;
+}
+.container{
+ 
+  height: 100vh;
+  display: grid;
+  grid-gap: 4px;
+  justify-content: center;
+  padding: 40px;
+  grid-template-rows: 80px 80px 80px 80px 80px 80px;
+  grid-template-columns: 80px 80px 80px 80px 80px 80px 80px 80px 80px 80px 80px 80px 80px;
+}
+.item-1 {
+  background-color: #57a3b1;
+  grid-row: 1/4;
+  grid-column: 1/5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item-2 {
+  background-color: #b9ddcf;
+  grid-row: 1/5;
+  grid-column: 5/8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-3 {
+  background-color: #d4ddc2;
+  grid-row: 1/3;
+  grid-column: 8/12;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-4 {
+  background-color: #caf87e;
+  grid-row: 1/3;
+  grid-column: 12/14;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-5 {
+  background-color: #f9c361;
+  grid-row: 4 /8;
+  grid-column: 1/5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-6 {
+  background-color: #ef597c;
+  grid-row: 5/8;
+  grid-column: 5/8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item-7 {
+  background-color: #da5ca6;
+  grid-row: 3/6;
+  grid-column: 8/10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-8 {
+  background-color: rgb(94, 53, 95);
+  grid-row: 3/5;
+  grid-column: 10/11;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-9 {
+  background-color: rgb(64, 117, 157);
+  grid-row: 6/8;
+  grid-column: 8/10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-10 {
+  background-color: rgb(146, 164, 188);
+  grid-row: 3/5;
+  grid-column: 11/14;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-11 {
+  background-color: rgb(242, 124, 86);
+  grid-row: 5/8;
+  grid-column: 10/11;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-12 {
+  background-color: rgb(201, 185, 224);
+  grid-row: 5/8;
+  grid-column: 11/12;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.item-13 {
+  background-color: rgb(87, 163, 177);
+  grid-row: 5/8;
+  grid-column: 12/14;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ 

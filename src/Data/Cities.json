@@ -1,0 +1,251 @@
+{
+  "cities": [
+    {
+      "name": "New Delhi",
+      "state": "Delhi",
+      "temperature": 28,
+      "population": 18978000,
+      "asset_allocation": {
+        "equity": 40,
+        "bonds": 30,
+        "real_estate": 20,
+        "cash": 10
+      },
+      "fund_performance": {
+        "2022": 10,
+        "2023": 15,
+        "2024": 8,
+        "2025": 12
+      },
+      "volume": 200000
+    },
+    {
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "temperature": 30,
+      "population": 46313956,
+      "asset_allocation": {
+        "equity": 35,
+        "bonds": 25,
+        "real_estate": 25,
+        "cash": 15
+      },
+      "fund_performance": {
+        "2022": 12,
+        "2023": 18,
+        "2024": 6,
+        "2025": 10
+      },
+      "volume": 180000
+    },
+    {
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "temperature": 32,
+      "population": 12442373,
+      "asset_allocation": {
+        "equity": 45,
+        "bonds": 20,
+        "real_estate": 15,
+        "cash": 20
+      },
+      "fund_performance": {
+        "2022": 8,
+        "2023": 14,
+        "2024": 10,
+        "2025": 16
+      },
+      "volume": 220000
+    },
+    {
+      "name": "Ahmedabad",
+      "state": "Gujarat",
+      "temperature": 34,
+      "population": 7045313,
+      "asset_allocation": {
+        "equity": 50,
+        "bonds": 15,
+        "real_estate": 20,
+        "cash": 15
+      },
+      "fund_performance": {
+        "2022": 15,
+        "2023": 20,
+        "2024": 12,
+        "2025": 18
+      },
+      "volume": 150000
+    },
+    {
+      "name": "Bangalore",
+      "state": "Karnataka",
+      "temperature": 25,
+      "population": 11650821,
+      "asset_allocation": {
+        "equity": 40,
+        "bonds": 30,
+        "real_estate": 20,
+        "cash": 10
+      },
+      "fund_performance": {
+        "2022": 10,
+        "2023": 12,
+        "2024": 15,
+        "2025": 8
+      },
+      "volume": 190000
+    },
+    {
+      "name": "Pune",
+      "state": "Maharashtra",
+      "temperature": 28,
+      "population": 776275,
+      "asset_allocation": {
+        "equity": 35,
+        "bonds": 25,
+        "real_estate": 25,
+        "cash": 15
+      },
+      "fund_performance": {
+        "2022": 18,
+        "2023": 10,
+        "2024": 14,
+        "2025": 12
+      },
+      "volume": 160000
+    },
+    {
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "temperature": 31,
+      "population": 7088000,
+      "asset_allocation": {
+        "equity": 45,
+        "bonds": 20,
+        "real_estate": 15,
+        "cash": 20
+      },
+      "fund_performance": {
+        "2022": 14,
+        "2023": 16,
+        "2024": 20,
+        "2025": 10
+      },
+      "volume": 210000
+    },
+    {
+      "name": "Surat",
+      "state": "Gujarat",
+      "temperature": 36,
+      "population": 5568000,
+      "asset_allocation": {
+        "equity": 50,
+        "bonds": 15,
+        "real_estate": 20,
+        "cash": 15
+      },
+      "fund_performance": {
+        "2022": 12,
+        "2023": 18,
+        "2024": 14,
+        "2025": 16
+      },
+      "volume": 140000
+    },
+    {
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "temperature": 29,
+      "population": 6809970,
+      "asset_allocation": {
+        "equity": 40,
+        "bonds": 30,
+        "real_estate": 20,
+        "cash": 10
+      },
+      "fund_performance": {
+        "2022": 16,
+        "2023": 20,
+        "2024": 12,
+        "2025": 14
+      },
+      "volume": 180000
+    },
+    {
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "temperature": 33,
+      "population": 3073350,
+      "asset_allocation": {
+        "equity": 35,
+        "bonds": 25,
+        "real_estate": 25,
+        "cash": 15
+      },
+      "fund_performance": {
+        "2022": 10,
+        "2023": 14,
+        "2024": 18,
+        "2025": 16
+      },
+      "volume": 130000
+    },
+    {
+      "name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "temperature": 30,
+      "population": 3382000,
+      "asset_allocation": {
+        "equity": 45,
+        "bonds": 20,
+        "real_estate": 15,
+        "cash": 20
+      },
+      "fund_performance": {
+        "2022": 14,
+        "2023": 16,
+        "2024": 10,
+        "2025": 18
+      },
+      "volume": 170000
+    },
+    {
+      "name": "Indore",
+      "state": "Madhya Pradesh",
+      "temperature": 26,
+      "population": 2201927,
+      "asset_allocation": {
+        "equity": 50,
+        "bonds": 15,
+        "real_estate": 20,
+        "cash": 15
+      },
+      "fund_performance": {
+        "2022": 18,
+        "2023": 12,
+        "2024": 16,
+        "2025": 14
+      },
+      "volume": 160000
+    },
+    {
+      "name": "Kanpur",
+      "state": "Uttar Pradesh",
+      "temperature": 29,
+      "population": 3071092,
+      "asset_allocation": {
+        "equity": 40,
+        "bonds": 30,
+        "real_estate": 20,
+        "cash": 10
+      },
+      "fund_performance": {
+        "2022": 12,
+        "2023": 15,
+        "2024": 14,
+        "2025": 10
+      },
+      "volume": 140000
+    }
+  ]
+}
